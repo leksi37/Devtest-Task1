@@ -1,11 +1,2 @@
-# devtest
-This is a repository for the first of our developer screening tasks.
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Comments
+For the first task, I used error boundaries, in order to catch the errors and not let the page crash. Each of the counters fails for itself and doesn't affect the other one or the page. 
