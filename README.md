@@ -1,2 +1,11 @@
-# Devtest-Task1
-There are two counters on the page, both are programmed to crash when incremented to 5, however, now the page doesn't crash and the errors are caught by Error boundaries. 
+# devtest
+This is a repository for the first of our developer screening tasks.
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
